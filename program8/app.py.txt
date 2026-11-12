@@ -1,0 +1,3 @@
+int a,b = 10,20
+int sum = a+b
+print("Sum: ",sum)
